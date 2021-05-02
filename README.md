@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-📚 I am a Computer Science student at Buenos Aires University 🇦 ([FCEN](http://dc.uba.ar/)). I am midway through the degree.
+📚 I am a Computer Science student at Buenos Aires University 🇦🇷 ([FCEN](http://dc.uba.ar/)). I am midway through the degree.
 
 ### 🔭 My main interests are (and some tech stack technologies): 
 * Machine Learning and Neural Networks (Python, ScikitLearn, Keras, Tensorflow, ...)
@@ -10,7 +10,7 @@
 
 ### 💻 Daily drivers
 * 🐍 Python
-* ♦️  Ruby
+* 💎 Ruby
 * 💾 Postgresql/MySQL
 * 🛠 C/C++
 

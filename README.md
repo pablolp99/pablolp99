@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 💻 Currently a Data Engineer @ [Andela](https://www.andela.com/).
-📚 I am a Computer Science student at Buenos Aires University 🇦🇷 ([FCEN](http://dc.uba.ar/)). I am midway through the degree.
+
+📚 I am a Computer Science (Licentiate) student at Buenos Aires University 🇦🇷 ([FCEN](http://dc.uba.ar/)). I am in the final stretch of my degree.
 
 ### 🔭 My main interests are (and some tech stack technologies): 
 * Machine Learning and Neural Networks (Python, ScikitLearn, Keras, Tensorflow, ...)

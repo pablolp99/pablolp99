@@ -13,6 +13,7 @@
 
 ### 💻 Daily drivers
 * 🐍 Python
+* Airflow
 * 🛠 C/C++
 
 ### Contact info

@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-💻 Currently a Data Engineer @ [Andela](https://www.andela.com/).
+💻 Data Engineer, Science and Analytics, also GIScience.
 
 📚 I am a Computer Science (Licentiate) student at Buenos Aires University 🇦🇷 ([FCEN](http://dc.uba.ar/)). I am in the final stretch of my degree.
 
@@ -17,4 +17,5 @@
 * 🛠 C/C++
 
 ### Contact info
+Website [PurpleRock](https://purplerock.ai)
 Can follow me [here](https://twitter.com/pablolp99). Or mail me [here](mailto:pablo.lopesperera@gmail.com)
